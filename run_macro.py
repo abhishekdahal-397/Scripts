@@ -3,11 +3,11 @@ import pyautogui
 import time
 
 def do_macro():
-    time.sleep(0.1)
+    time.sleep(0.2)
     print("Copying (Ctrl+C)...")
     pyautogui.hotkey('ctrl', 'c')
     
-    time.sleep(0.1)
+    time.sleep(0.444)
     print("Copying (Ctrl+C)...")
     print("Switching window (Alt+Tab)...")
     pyautogui.keyDown('alt')
