@@ -221,3 +221,13 @@
 📌 Example 1: Tom said Harry had lied, and Harry recriminated by saying Tom had manipulated him.
 ────────────────────────────────────────────
 
+📖 Word: ascend
+🔤 Part of Speech: verb
+📝 Definition: To move upward, to fly, to soar.
+
+📌 Example 1: He ascended to heaven upon a cloud.
+📌 Example 2: You ascend the stairs and take a right.
+📌 Example 3: She ascended the throne when her mother abdicated.
+📌 Example 4: Our inquiries ascend to the remotest antiquity.
+────────────────────────────────────────────
+
