@@ -214,3 +214,10 @@
 📌 Example 2: It is arguable as to whether we can truly ascribe this play to Shakespeare.
 ────────────────────────────────────────────
 
+📖 Word: recriminating
+🔤 Part of Speech: verb
+📝 Definition: To accuse in return, state an accusation in return.
+
+📌 Example 1: Tom said Harry had lied, and Harry recriminated by saying Tom had manipulated him.
+────────────────────────────────────────────
+
