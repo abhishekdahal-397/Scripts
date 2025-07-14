@@ -121,3 +121,10 @@
 📌 Example 2: A cat can protract and retract its claws.
 ────────────────────────────────────────────
 
+📖 Word: slack
+🔤 Part of Speech: noun
+📝 Definition: The part of anything that hangs loose, having no strain upon it.
+
+📌 Example 1: take in the slack
+────────────────────────────────────────────
+
