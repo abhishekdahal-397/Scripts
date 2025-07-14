@@ -66,8 +66,19 @@ def append_to_file(formatted_text):
         f.write(formatted_text)
 
 def git_commit_and_push():
+    # Stash any unstaged/untracked changes to avoid pull errors
+    subprocess.run(["git", "stash", "-u"], cwd=REPO_PATH)
+    
+    # Pull latest changes with rebase
     subprocess.run(["git", "pull", "--rebase"], cwd=REPO_PATH)
+    
+    # Reapply stashed changes
+    subprocess.run(["git", "stash", "pop"], cwd=REPO_PATH)
+
+    # Add the updated file
     subprocess.run(["git", "add", FILENAME], cwd=REPO_PATH)
+
+    # Check if there is anything to commit
     result = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=REPO_PATH)
     if result.returncode != 0:
         subprocess.run(["git", "commit", "-m", "Added new word meaning"], cwd=REPO_PATH)
@@ -91,3 +102,4 @@ while True:
             else:
                 print(f"❌ No meaning found for: {word}")
     time.sleep(3)
+
