@@ -408,3 +408,10 @@
 📌 Example 1: He viewed sales calls as an unwelcome intrusion.
 ────────────────────────────────────────────
 
+📖 Word: recur
+🔤 Part of Speech: verb
+📝 Definition: To have recourse (to) someone or something for assistance, support etc.
+
+📌 Example 1: The theme of the prodigal son recurs later in the third act.
+────────────────────────────────────────────
+
