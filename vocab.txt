@@ -969,3 +969,11 @@
 📌 Example 1: Being here evokes long forgotten memories.
 ────────────────────────────────────────────
 
+📖 Word: bask
+🔤 Part of Speech: verb
+📝 Definition: To bathe in warmth; to be exposed to pleasant heat.
+
+📌 Example 1: to bask in the sun
+📌 Example 2: I basked in her love.
+────────────────────────────────────────────
+
