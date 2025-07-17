@@ -1174,3 +1174,12 @@
 📌 Example 1: Con artists are not cowed by the law.
 ────────────────────────────────────────────
 
+📖 Word: loathe
+🔤 Part of Speech: verb
+📝 Definition: To detest, hate, revile.
+
+📌 Example 1: I absolutely loathe this place.
+
+🔁 Synonyms: abhor, abominate, despise
+────────────────────────────────────────────
+
