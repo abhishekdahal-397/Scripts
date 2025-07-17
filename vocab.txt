@@ -1141,3 +1141,11 @@
 📌 Example 1: By meditating, I try to attune myself to the greater cosmos.
 ────────────────────────────────────────────
 
+📖 Word: probe
+🔤 Part of Speech: noun
+📝 Definition: Any of various medical instruments used to explore wounds, organs, etc.
+
+📌 Example 1: They launched a probe into the cause of the accident.
+📌 Example 2: Insert the probe into the soil and read the temperature.
+────────────────────────────────────────────
+
