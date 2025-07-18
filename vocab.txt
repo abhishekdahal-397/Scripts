@@ -1239,3 +1239,13 @@
 📌 Example 1: a horse that startles easily
 ────────────────────────────────────────────
 
+📖 Word: descendants
+🔤 Part of Speech: noun
+📝 Definition: One who is the progeny of a specified person, at any distance of time or through any number of generations.
+
+📌 Example 1: The patriarch survived many descendants: five children, a dozen grandchildren, even a great grandchild.
+📌 Example 2: This famous medieval manuscript has many descendants.
+📌 Example 3: Dogs evolved as descendants of early wolves.
+📌 Example 4: English and Scots are the descendants of Old English.
+────────────────────────────────────────────
+
