@@ -1263,3 +1263,10 @@
 📌 Example 1: If I lend you my car, my only stipulation is that you fill up the gas tank before returning it.
 ────────────────────────────────────────────
 
+📖 Word: glint
+🔤 Part of Speech: noun
+📝 Definition: A short flash of light.
+
+📌 Example 1: I saw the glint of metal as he raised the gun.
+────────────────────────────────────────────
+
