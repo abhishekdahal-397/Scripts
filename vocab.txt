@@ -1256,3 +1256,10 @@
 📌 Example 1: a horse that startles easily
 ────────────────────────────────────────────
 
+📖 Word: stipulations
+🔤 Part of Speech: noun
+📝 Definition: The act of stipulating; a contracting or bargaining; an agreement.
+
+📌 Example 1: If I lend you my car, my only stipulation is that you fill up the gas tank before returning it.
+────────────────────────────────────────────
+
