@@ -1521,3 +1521,9 @@
 📌 Example 1: The sheep huddled together seeking warmth.
 ────────────────────────────────────────────
 
+📖 Word: glen
+🔤 Part of Speech: noun
+📝 Definition: A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.
+
+────────────────────────────────────────────
+
