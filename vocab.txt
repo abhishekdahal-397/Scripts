@@ -1611,3 +1611,12 @@
 📌 Example 2: He disguised his true intentions.
 ────────────────────────────────────────────
 
+📖 Word: incorporate
+🔤 Part of Speech: verb
+📝 Definition: To include (something) as a part.
+
+📌 Example 1: The design of his house incorporates a spiral staircase.
+📌 Example 2: Incorporate air into the mixture.
+📌 Example 3: The company was incorporated in 1980.
+────────────────────────────────────────────
+
