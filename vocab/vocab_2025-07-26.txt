@@ -1,0 +1,16 @@
+📖 Word: formatted
+
+🔢 Meaning 1
+🔤 Part of Speech: verb
+📝 Definition: To create or edit the layout of a document.
+
+🔢 Meaning 2
+🔤 Part of Speech: verb
+📝 Definition: Change a document so it will fit onto a different type of page.
+
+🔢 Meaning 3
+🔤 Part of Speech: verb
+📝 Definition: To prepare a mass storage medium for initial use, erasing any existing data in the process.
+📌 Example 1: I lost weeks of work when I inadvertently formatted my hard drive.
+────────────────────────────────────────────
+
