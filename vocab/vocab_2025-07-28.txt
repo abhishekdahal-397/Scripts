@@ -53,3 +53,20 @@
 📌 Example 2: He told me not to do it. I, however, did it anyway. / I did it anyway, however. / (sometimes proscribed:) However, I did it anyway.
 ────────────────────────────────────────────
 
+📖 Word: knows
+
+🔢 Meaning 1
+🔤 Part of Speech: noun
+📝 Definition: Knowledge; the state of knowing.
+
+🔢 Meaning 2
+🔤 Part of Speech: verb
+📝 Definition: To perceive the truth or factuality of; to be certain of or that.
+
+🔢 Meaning 3
+🔤 Part of Speech: verb
+📝 Definition: To be aware of; to be cognizant of.
+📌 Example 1: I know your mother, but I’ve never met your father.
+📌 Example 2: Their relationship knew ups and downs.
+────────────────────────────────────────────
+
